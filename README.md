@@ -1,6 +1,6 @@
-# DOS Command Reference
+# NIC Internship DOS Command - What did i learn?
 
-A quick reference guide for common DOS/Windows command-line operations and development commands.
+A quick reference guide for common DOS/Windows command-line operations and development commands i learnt.
 
 ## 📸 Example Use Cases
 
@@ -137,11 +137,3 @@ gcc file_name.c -o output_file.exe
 │   └── script.ts
 └── README.md
 ```
-
-## 📝 License
-
-This is a personal reference project.
-
----
-
-*For more information on DOS commands, visit [Microsoft Docs](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)*
