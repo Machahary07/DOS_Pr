@@ -4,8 +4,6 @@ A quick reference guide for common DOS/Windows command-line operations and devel
 
 ## 📸 Example Use Cases
 
-Below are real-world examples demonstrating how to use these commands effectively.
-
 ### Example 1: Creating Project Directory and README
 
 ![Creating project structure](img/1.png)
