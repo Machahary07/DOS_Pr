@@ -1,0 +1,1 @@
+dir /a shows everything including hidden files
